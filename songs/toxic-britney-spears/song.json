@@ -1,0 +1,320 @@
+{
+  "id": "toxic-britney-spears",
+  "title": "Toxic",
+  "artist": "Britney Spears",
+  "duration": 198.8,
+  "version": 1,
+  "files": {
+    "instrumental": "instrumental.mp3",
+    "vocals": "vocals.mp3",
+    "cover": "cover.jpg"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "type": "intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 13.22,
+      "singable": false
+    },
+    {
+      "id": "s2",
+      "type": "verse",
+      "label": "Estrofa 1",
+      "start": 13.22,
+      "end": 40.2,
+      "singable": true
+    },
+    {
+      "id": "s3",
+      "type": "prechorus",
+      "label": "Pre-estribillo 1",
+      "start": 40.2,
+      "end": 56.2,
+      "singable": true
+    },
+    {
+      "id": "s4",
+      "type": "chorus",
+      "label": "Estribillo 1",
+      "start": 56.2,
+      "end": 78.3,
+      "singable": true
+    },
+    {
+      "id": "s5",
+      "type": "instrumental",
+      "label": "Interludio",
+      "start": 78.3,
+      "end": 84.13,
+      "singable": false
+    },
+    {
+      "id": "s6",
+      "type": "verse",
+      "label": "Estrofa 2",
+      "start": 84.13,
+      "end": 97.28,
+      "singable": true
+    },
+    {
+      "id": "s7",
+      "type": "prechorus",
+      "label": "Pre-estribillo 2",
+      "start": 97.28,
+      "end": 113.58,
+      "singable": true
+    },
+    {
+      "id": "s8",
+      "type": "chorus",
+      "label": "Estribillo 2",
+      "start": 113.58,
+      "end": 136.0,
+      "singable": true
+    },
+    {
+      "id": "s9",
+      "type": "bridge",
+      "label": "Puente",
+      "start": 136.0,
+      "end": 142.76,
+      "singable": true
+    },
+    {
+      "id": "s10",
+      "type": "instrumental",
+      "label": "Solo de cuerdas",
+      "start": 142.76,
+      "end": 157.32,
+      "singable": false
+    },
+    {
+      "id": "s11",
+      "type": "chorus",
+      "label": "Estribillo final",
+      "start": 157.32,
+      "end": 184.55,
+      "singable": true
+    },
+    {
+      "id": "s12",
+      "type": "outro",
+      "label": "Outro",
+      "start": 184.55,
+      "end": 198.8,
+      "singable": true
+    }
+  ],
+  "lyrics": [
+    {
+      "t": 13.72,
+      "text": "Baby, can't you see I'm calling?"
+    },
+    {
+      "t": 17.49,
+      "text": "A guy like you should wear a warning"
+    },
+    {
+      "t": 20.86,
+      "text": "It's dangerous, I'm falling"
+    },
+    {
+      "t": 25.02,
+      "text": ""
+    },
+    {
+      "t": 27.42,
+      "text": "There's no escape, I can't wait"
+    },
+    {
+      "t": 31.03,
+      "text": "I need a hit, baby, give me it"
+    },
+    {
+      "t": 34.45,
+      "text": "You're dangerous, I'm loving it"
+    },
+    {
+      "t": 40.7,
+      "text": "Too high, can't come down"
+    },
+    {
+      "t": 44.11,
+      "text": "Losing my head, spinnin' 'round and 'round"
+    },
+    {
+      "t": 49.04,
+      "text": "Do you feel me now?"
+    },
+    {
+      "t": 52.28,
+      "text": ""
+    },
+    {
+      "t": 56.7,
+      "text": "With a taste of your lips, I'm on a ride"
+    },
+    {
+      "t": 60.84,
+      "text": "You're toxic, I'm slippin' under"
+    },
+    {
+      "t": 63.62,
+      "text": "With a taste of a poison paradise"
+    },
+    {
+      "t": 66.97,
+      "text": "I'm addicted to you"
+    },
+    {
+      "t": 68.51,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 73.53,
+      "text": "And I love what you do"
+    },
+    {
+      "t": 75.23,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 78.46,
+      "text": ""
+    },
+    {
+      "t": 84.63,
+      "text": "It's getting late to give you up"
+    },
+    {
+      "t": 88.11,
+      "text": "I took a sip from my devil's cup"
+    },
+    {
+      "t": 91.44,
+      "text": "Slowly, it's taking over me"
+    },
+    {
+      "t": 95.55,
+      "text": ""
+    },
+    {
+      "t": 97.78,
+      "text": "Too high, can't come down"
+    },
+    {
+      "t": 101.1,
+      "text": "It's in the air and it's all around"
+    },
+    {
+      "t": 106.18,
+      "text": "Can you feel me now?"
+    },
+    {
+      "t": 109.24,
+      "text": ""
+    },
+    {
+      "t": 114.08,
+      "text": "With a taste of your lips, I'm on a ride"
+    },
+    {
+      "t": 117.95,
+      "text": "You're toxic, I'm slippin' under"
+    },
+    {
+      "t": 120.64,
+      "text": "With a taste of a poison paradise"
+    },
+    {
+      "t": 123.99,
+      "text": "I'm addicted to you"
+    },
+    {
+      "t": 125.54,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 130.61,
+      "text": "And I love what you do"
+    },
+    {
+      "t": 132.39,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 136.25,
+      "text": ""
+    },
+    {
+      "t": 139.35,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 142.97,
+      "text": ""
+    },
+    {
+      "t": 157.82,
+      "text": "Taste of your lips, I'm on a ride"
+    },
+    {
+      "t": 161.42,
+      "text": "You're toxic, I'm slippin' under"
+    },
+    {
+      "t": 164.44,
+      "text": "With a taste of a poison paradise"
+    },
+    {
+      "t": 167.68,
+      "text": "I'm addicted to you"
+    },
+    {
+      "t": 169.34,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 170.88,
+      "text": "With a taste of your lips, I'm on a ride"
+    },
+    {
+      "t": 175.04,
+      "text": "You're toxic, I'm slippin' under (toxic)"
+    },
+    {
+      "t": 177.64,
+      "text": "With a taste of a poison paradise"
+    },
+    {
+      "t": 181.09,
+      "text": "I'm addicted to you"
+    },
+    {
+      "t": 182.79,
+      "text": "Don't you know that you're toxic?"
+    },
+    {
+      "t": 185.05,
+      "text": "Intoxicate me now with your lovin' now"
+    },
+    {
+      "t": 188.44,
+      "text": "I think I'm ready now, I think I'm ready now"
+    },
+    {
+      "t": 191.81,
+      "text": "Intoxicate me now with your lovin' now"
+    },
+    {
+      "t": 195.13,
+      "text": "I think I'm ready now"
+    },
+    {
+      "t": 196.22,
+      "text": ""
+    }
+  ]
+}
